@@ -1,3 +1,3 @@
 # Angular
 
-- Primeiro projeto para praticar Angula e Typescript
+- Primeiro projeto para praticar Angular e Typescript
