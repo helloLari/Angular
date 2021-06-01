@@ -1,0 +1,16 @@
+.styled-input {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: .5rem;
+  border: 0;
+  border-bottom: 2px solid black;
+  height: 2rem;
+  font-size: 1.2rem;
+  padding: .2rem;
+}
+
+.styled-input:focus {
+  outline: none;
+}
